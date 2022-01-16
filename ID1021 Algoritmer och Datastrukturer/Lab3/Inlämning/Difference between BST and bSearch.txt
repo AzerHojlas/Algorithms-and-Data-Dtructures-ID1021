@@ -1,0 +1,2 @@
+Comparison between BinarySearch and BST.
+The search and insert algorithms of the binary search tree will in average situations scale logarithmically. The binary search algorithm will scale logarithmically for searching but not for inserting, which is N/2. Thus, BST will perform significantly better with large inputs when regarding time complexity.
